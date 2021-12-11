@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Sage-Movies/static/css/main.28aa7097.chunk.css",
+    "main.js": "/Sage-Movies/static/js/main.2abd9055.chunk.js",
+    "main.js.map": "/Sage-Movies/static/js/main.2abd9055.chunk.js.map",
+    "runtime-main.js": "/Sage-Movies/static/js/runtime-main.72ef8206.js",
+    "runtime-main.js.map": "/Sage-Movies/static/js/runtime-main.72ef8206.js.map",
+    "static/css/2.2894c9e2.chunk.css": "/Sage-Movies/static/css/2.2894c9e2.chunk.css",
+    "static/js/2.e0fc41ee.chunk.js": "/Sage-Movies/static/js/2.e0fc41ee.chunk.js",
+    "static/js/2.e0fc41ee.chunk.js.map": "/Sage-Movies/static/js/2.e0fc41ee.chunk.js.map",
+    "index.html": "/Sage-Movies/index.html",
+    "static/css/2.2894c9e2.chunk.css.map": "/Sage-Movies/static/css/2.2894c9e2.chunk.css.map",
+    "static/css/main.28aa7097.chunk.css.map": "/Sage-Movies/static/css/main.28aa7097.chunk.css.map",
+    "static/js/2.e0fc41ee.chunk.js.LICENSE.txt": "/Sage-Movies/static/js/2.e0fc41ee.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/Sage-Movies/static/media/boxicons.dfc882ec.eot",
+    "static/media/footer-bg.67e95f05.jpg": "/Sage-Movies/static/media/footer-bg.67e95f05.jpg",
+    "static/media/sage.67797e94.png": "/Sage-Movies/static/media/sage.67797e94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72ef8206.js",
+    "static/css/2.2894c9e2.chunk.css",
+    "static/js/2.e0fc41ee.chunk.js",
+    "static/css/main.28aa7097.chunk.css",
+    "static/js/main.2abd9055.chunk.js"
+  ]
+}
